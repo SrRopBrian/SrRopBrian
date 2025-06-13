@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋🏽 Hi! I'm Rop Brian.<br>📱 Tech enthusiast with a leaning towards mobile development.<br>🏫 Bsc. Computer Science<br>🌱 Learning and building apps with Kotlin. <br> 
-    Currently working on Fynda, a utilities and service provider marketplace. <br>⚡ Early bird
+    Currently working on Fynda, a utilities and service provider marketplace. <br>⚡ Plays the guitar 🎸
 
 
 ## 🌐 Socials:
